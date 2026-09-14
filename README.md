@@ -1,5 +1,7 @@
 # Speech Recognition using Hugging Face
 
+A Python speech recognition project that converts spoken ... language from an audio file into text using the SpeechRecognition library and Google's Speech Recognition service.
+
 
 ## License
 
